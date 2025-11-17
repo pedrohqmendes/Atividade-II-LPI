@@ -67,7 +67,7 @@ int main() {
     cout << "\nHISTORICO DE VENDAS:" << endl;
     inventario.listar_historico();
     
-    cout << "\n=== SISTEMA CONCLUIDO ===" << endl;
+    cout << "\n=== The end ===" << endl;
     
     return 0;
 }
